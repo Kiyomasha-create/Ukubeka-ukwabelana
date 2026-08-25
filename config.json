@@ -1,4 +1,6 @@
 {
   "version": "1.0.0",
-  "apiUrl": "https://rapacious-agripina-arousedly.ngrok-free.dev/assign-server"
+  "apiUrl": "https://rapacious-agripina-arousedly.ngrok-free.dev/assign-server",
+  "apiKey": "STAFF_API_KEY_ASSIGN_SERVER",
+  "apiBaseUrl": "https://rapacious-agripina-arousedly.ngrok-free.dev"
 }
