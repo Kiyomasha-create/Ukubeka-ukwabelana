@@ -1,5 +1,7 @@
 {
-  "version": "0.0.1",
-  "apiUrl": "https://rapacious-agripina-arousedly.ngrok-free.dev",
-  "apiBaseUrl": "https://rapacious-agripina-arousedly.ngrok-free.dev"
+  "version": "6.4.4",
+  "auditApiUrl": "https://freshchat-audit-ai.onrender.com",
+  "auditApiBaseUrl": "https://freshchat-audit-ai.onrender.com",
+  "apiUrl": "https://freshchat-assign-server.onrender.com",
+  "apiBaseUrl": "https://freshchat-assign-server.onrender.com"
 }
